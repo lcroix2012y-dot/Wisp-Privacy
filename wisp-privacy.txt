@@ -1,0 +1,49 @@
+# Politique de confidentialité — Wisp
+
+**Dernière mise à jour : 29 octobre 2026**
+
+## 1. Présentation
+
+Wisp est une extension Google Chrome conçue pour bloquer les publicités, limiter certains mécanismes de suivi et réduire les fenêtres intempestives lors de la navigation sur Internet.
+
+La protection de la vie privée des utilisateurs est un principe important de Wisp.
+
+## 2. Collecte des données
+
+Wisp ne collecte, ne vend ni ne transmet à un serveur externe les données personnelles des utilisateurs.
+
+L'extension ne dispose d'aucun système de compte utilisateur et ne demande aucune information personnelle pour fonctionner.
+
+## 3. Traitement local des données
+
+Pour assurer ses fonctionnalités, Wisp traite certaines informations directement dans le navigateur, notamment :
+
+- Le nom de domaine du site consulté, afin d'appliquer les préférences de protection et la liste des sites autorisés.
+- Des compteurs locaux permettant d'afficher le nombre d'éléments bloqués.
+- Les préférences de l'utilisateur, comme la mise en pause de la protection et les sites pour lesquels celle-ci est désactivée.
+
+Ces informations sont utilisées uniquement pour assurer le fonctionnement de l'extension et sont stockées localement dans le navigateur.
+
+## 4. Contenu des pages et navigation
+
+Wisp analyse certains éléments des pages Web afin de masquer les publicités restantes et d'empêcher certains comportements publicitaires indésirables.
+
+L'extension ne transmet pas le contenu des pages consultées ni l'historique de navigation à un serveur externe.
+
+## 5. Partage et vente des données
+
+Wisp ne vend pas les données des utilisateurs et ne les partage pas avec des tiers à des fins publicitaires ou de profilage.
+
+## 6. Conservation et suppression
+
+Les préférences et les compteurs sont conservés localement dans le navigateur selon les mécanismes de stockage de l'extension. Les compteurs de session sont temporaires.
+
+L'utilisateur peut modifier ses préférences depuis l'extension ou désinstaller Wisp pour supprimer les données locales associées à son utilisation, sous réserve des mécanismes de stockage du navigateur.
+
+## 7. Modifications de cette politique
+
+Cette politique peut être mise à jour si les fonctionnalités ou les pratiques de confidentialité de Wisp évoluent. Toute modification sera publiée sur cette même page.
+
+## 8. Contact
+
+Pour toute question concernant cette politique de confidentialité, veuillez contacter le développeur de Wisp via les coordonnées indiquées sur la fiche de l'extension dans le Chrome Web Store.
